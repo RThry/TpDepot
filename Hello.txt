@@ -1,1 +1,2 @@
 Texte dans le Hello.txt
+Voici du texte rajouté
