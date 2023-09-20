@@ -1,1 +1,1 @@
-Bonjour, Git !
+Bonjour, ceci est un exemple de message dans Hello.txt.
